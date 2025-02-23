@@ -1,7 +1,7 @@
 不定期持续更新中，上次更新日期：2025.02.23 ↓↓↓
 
 ## ↓ 2025
-    大规模RL + 思维链带来的收益
+    💡 大规模RL + 思维链带来的收益
 #### 22 Jan 2025, DeepSeek, DeepSeek-R1: Incentivizing Reasoning Capability in LLMs via Reinforcement Learning -> [Link](https://arxiv.org/abs/2501.12948)
 #### 22 Jan 2025, DeepSeek, Kimi k1.5: Scaling Reinforcement Learning with LLMs -> [Link](https://arxiv.org/abs/2501.12599)
 
