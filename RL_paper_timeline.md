@@ -15,11 +15,11 @@
 > * 具体做法：
 >   * sft：
 >       * 数据生成：prompt + 安全分类cat --安全准则spec + base model--> cot + output
->       * 数据过滤：prompt + 安全分类cat + cot + output --安全准则spec + erative reward model--> score
+>       * 数据过滤：prompt + 安全分类cat + cot + output --安全准则spec + generative reward model--> score
 >       * 训练：prompt + cot + output
 >   * RL：
 >       * 采样：prompt + 安全分类cat --sft model--> cot + output
->       *  RM：prompt + 安全分类cat + output 安全准则spec + erative reward model--> score
+>       *  RM：prompt + 安全分类cat + output 安全准则spec + generative reward model--> score
 >       * 优化policy
 >   * 使用思维链对模型回答进行评估，从而指导模型的回答
 #### 8 Dec 2024, Zhipu AI, Does RLHF Scale? Exploring the Impacts from Data, Model, and Method -> [Link](https://arxiv.org/pdf/2412.06000)
