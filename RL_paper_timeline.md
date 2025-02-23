@@ -6,8 +6,9 @@
 #### 22 Jan 2025, DeepSeek, Kimi k1.5: Scaling Reinforcement Learning with LLMs -> [Link](https://arxiv.org/abs/2501.12599)
 
 ## ↓ 2024
-    💡 PPO变体出现，一个方向是去掉critic model，代表作GRPO、RLOO等；
-    另一方向是rule base的RFT，代表作openai的Rule Based Rewards for Language Model Safety、字节的REFT等
+    💡 PPO变体出现
+     - 一个方向是去掉critic model，代表作GRPO、RLOO等；
+     - 另一方向是rule base的RFT，代表作openai开发者大会第二天的Reinforce finetuning和Deliberative Alignment、字节的REFT等
 #### 
 #### 27 Dec 2024, DeepSeek, DeepSeek-V3 Technical Report -> [Link](https://arxiv.org/abs/2412.19437)
 #### 20 Dec 2024, openai, Deliberative Alignment: Reasoning Enables Safer Language Models -> [Link](https://arxiv.org/pdf/2412.10560)
