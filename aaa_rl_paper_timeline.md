@@ -2,8 +2,12 @@
 
 ## ↓ 2025
     💡 大规模RL + 思维链带来的收益
+#### 21 Feb 2025, StepFun,Open-Reasoner-Zero: An Open Source Approach to Scaling Up Reinforcement Learning on the Base Model -> [Link](https://github.com/Open-Reasoner-Zero/Open-Reasoner-Zero/blob/main/ORZ_paper.pdf)
+> * 作者解读：[Qwen32B PPO实现 长推理R1](https://zhuanlan.zhihu.com/p/25424722419)
+> * 相关解读：[GRPO 中KL散读的选择](https://zhuanlan.zhihu.com/p/25862547100?utm_campaign=shareopn&utm_medium=social&utm_psn=1877185058546253824&utm_source=wechat_session&s_r=0)
 #### 22 Jan 2025, DeepSeek, DeepSeek-R1: Incentivizing Reasoning Capability in LLMs via Reinforcement Learning -> [Link](https://arxiv.org/abs/2501.12948)
 #### 22 Jan 2025, DeepSeek, Kimi k1.5: Scaling Reinforcement Learning with LLMs -> [Link](https://arxiv.org/abs/2501.12599)
+#### 14 Jan 2025, MiniMax, MiniMax-01: Scaling Foundation Models with Lightning Attention -> [Link](https://arxiv.org/abs/2501.08313)
 
 ## ↓ 2024
     💡 PPO变体出现
