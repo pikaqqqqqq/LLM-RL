@@ -13,7 +13,6 @@
     💡 PPO变体出现
      - 一个方向是去掉critic model，代表作GRPO、RLOO等；
      - 另一方向是rule base的RFT，代表作openai开发者大会第二天的Reinforce finetuning和Deliberative Alignment、字节的REFT等
-#### 
 #### 27 Dec 2024, DeepSeek, DeepSeek-V3 Technical Report -> [Link](https://arxiv.org/abs/2412.19437)
 #### 20 Dec 2024, openai, Deliberative Alignment: Reasoning Enables Safer Language Models -> [Link](https://arxiv.org/pdf/2412.10560)
 > * openai在安全领域的探索，通过思维链对安全准则进行回忆，从而指导模型的回答
@@ -31,6 +30,8 @@
 #### 8 Dec 2024, Zhipu AI, Does RLHF Scale? Exploring the Impacts from Data, Model, and Method -> [Link](https://arxiv.org/pdf/2412.06000)
 > * 智谱的强化组的工作，探索RL Scale Law
 > * 从采样次数、reward model大小、ppo vs grpo vs BON、到PRM vs ORM等
+#### 25 Nov 2024, Meta, Self-Generated Critiques Boost Reward Modeling for Language Models -> [Link](https://arxiv.org/abs/2411.16646)
+> * meta 的强化学习工作，通过自生成critique来提升reward model -> [中文解读](https://www.zhihu.com/people/zyf-98-4)
 #### 17 Jun 2024, NVIDIA, Nemotron-4 340B Technical Report -> [Link](https://arxiv.org/pdf/2406.11704)
 > * 数据：
 >   * 生成单轮prompt：生成宏观主题 -> 子主题 -> 生成问题 -> 问题细化
